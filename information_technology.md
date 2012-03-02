@@ -1,7 +1,7 @@
 # Information Technology FY2010 Program Budget
 
 ## PROGRAM DESCRIPTION
-Information Technology is key to Brookline's ability to educate its children, respond
+Information Technology plays a key role in Brookline's ability to educate its children, respond
 to emergencies, and efficiently provide services to its citizens. Investments in IT
 applications and infrastructure provide managers with tools to operate more
 efficiently, increase productivity, and manage the financial, physical, and human
@@ -24,7 +24,6 @@ users' specifications in terms of quality and cost;
 1. Identification of opportunities in the development and support of new and existing
 technologies; and
 1. Training of employees in the use of various aspects of information technology.
-
 The ITD has four divisions: Administration, Application Management, Network
 Support, and the Help Desk. A brief description of each is listed below:
 
@@ -46,130 +45,152 @@ and systems software.
 IT systems and services.
 
 ### BUDGET STATEMENT
-The FY11 budget reflects a $20,328 decrease (1.4%). Personnel increases $15,820
-(1.8%) and includes Steps ($12,531), a decrease in Longevity ($800) and the
-establishment of a Senior Information Systems Analyst ($69,321). This new position
-replaces the Senior Program Analyst ($65,232) in the IT budget and the Systems
-Administrator funded in the DPW budget (the DPW budget shows a $69,737
-reduction), as their duties are being consolidated. Total budget savings from this
-initiative is $65,638, exclusive of benefits.
+The FY12 budget reflects an increase of $11,328 (0.8%), primarily due to personnel
+step increases ($11,590) and the 1/4% carry-forward from the FY11 1% / 0.5% salary
+adjustment for non-union employees ($2,056).
 
-Services decrease $36,148 (7.4%) reflecting the change in the mechanism for
-processing online parking ticket payments (the vendor absorbs the costs and associated
-revenue).
+Services decrease $2,493 (0.5%) due to decreases in Data Processing Equipment
+Repair and Maintenance ($7,445), Equipment Service Contract ($5,164), Telephone
+and Telegraph ($310) and Wireless Communications ($100), slightly offset by
+increases in Data Processing Software Maintenance ($10,015) and the Copier Lease
+($511).
 
-### FY2011 OBJECTIVES
+### FY2012 OBJECTIVES
 #### Administration
-1. To continue to work with all Town and School Department heads/managers in an
-effort to ensure that IT needs are addressed and a long-term vision is developed.
-1. To meet with IT management and senior School administration weekly, and IT staff
-monthly.
-1. To continue to chair the inter-departmental Information Management Governance
-Committee (IMGC), which consists of senior management from various departments.
-1. To continue to chair and organize quarterly meetings of the Information Technology
-Advisory Committee (ITAC) to review upcoming technology initiatives.
-1. To prepare an updated IT Strategic Plan for the period of FY11-FY13
-1. To establish baseline metrics that will identify performance trends in network
-performance, application availability, and trouble ticket statistics.
-1. To continue to evaluate desktop and data center technologies that offer increased
-performance, decreased support need and lower overall cost.
-1. To further implement energy efficient technologies into overall computing
-operations including server, desktop and monitor power management.
+1. To continue to meet with individual departments and various committees on a
+regular basis to review upcoming technology initiatives.
+1. To increase the amount of on-line transactions via expanded payment and
+paperless billing options.
+1. To automate the entry of citizen complaints, notifications and requests via an online
+portal.
+1. To better increase government communication and transparency via social
+networking technologies.
+1. To continue to meet with senior School administration on a regular basis.
+1. To continue to chair and convene monthly meetings of the Information
+Management Governance Committee and quarterly meetings of the ITAC.
+1. To continue to represent the IT Department at monthly Emergency Management
+Team meetings.
+1. To continue to drive business process change that will promote departmental
+efficiencies and improved services to customers.
+1. To develop technology solutions that will allow for additional field and mobility
+based workers to leverage data and workflow remotely.
 
 #### Application Management
 1. To continue to manage the lifecycle management strategy for all enterprise
 applications.
-1. To evaluate newer disaster recovery technology and develop an architectural
-roadmap.
-1. To evaluate the existing email system to determine long-term viability and roadmap.
-1. To continue to integrate key School applications for better data sharing and
-simplified business process.
-1. To begin compilation of the newest GIS strategic plan.
-1. To extend functionality of the existing Maintenance Management System
-(Cartegraph) to include field-based work order generation and asset documentation.
-1. To integrate existing document management application across departments for
-greater collaboration and information sharing capabilities.
-1. To continue to monitor the implementation of the new permitting system
-(GeoTMS).
-1. To continue to work with the Human Resources Department on the procurement of
-an HR Information System (HRIS).
+1. To continue to follow change management best practices.
+1. To continue to implement the Cartegraph Maintenance Management System
+(CMMS), including integrating it with GIS asset layers and the citizen request portal.
+1. To further implement GeoTMS online applications for all appropriate permits and
+licenses.
+1. To further the use, optimization, and integration of the document management
+system.
+1. To implement Munis web-based dashboards and to continue to integrate other
+systems with Munis.
+1. To continue to develop integrated mobile applications that save time and increase
+efficiency.
+1. To continue the development of synchronization services and procedures
+between the Brookline Master Address Database and other systems.
+1. To further implement credit card payment capabilities.
+1. To continue to work with the HR Department on the procurement of a Human
+Resources Information System (HRIS).
 
 #### Network Support
-1. To complete Voice Over IP (VIOP) implementation across all Town and School
-operations.
-1. To pilot desktop virtualization proof of concept and develop cost justification for
-extended deployment.
-1. To continue to implement server virtualization for more efficient application
-collaboration and cost savings.
-1. To continue to leverage Active Directory for increased user capability, security and
-management capabilities.
-1. To leverage technology to automate key security functions including bandwidth
-management, threat management, and secure remote computing.
-1. To proactively address bandwidth management events and review individual user
-actions.
+1. To expand the server virtualization footprint.
+1. To incorporate School and Public Safety networks under a single management
+platform to allow for cleaner application integration and security management.
+1. To upgrade and centralize Town AntiVirus into a single console to include
+Windows and Apple clients.
+1. To plan for future storage and improve the existing storage footprint.
+1. To procure an additional backup device for replication and redundancy with the
+existing disk backup product.
+1. To plan for the Microsoft Exchange migration to allow for enterprise email,
+application and hand held devices.
+1. To implement polices to lockdown desktops via central management, antivirus or
+other third party tools.
+1. To centralize the software distribution tool for desktop upgrades, etc.
+1. To implement advanced Voice Over IP features, integrating real-time
+communication services such as instant messaging (chat), presence information, and
+video conferencing.
 
 #### Help Desk
-1. To continue to expand services and improve performance to users of the
-consolidated Town/School Help Desk.
-1. To continue to use the call ticketing system to identify trends, performance levels,
-and opportunities for improvement.
-1. To investigate newer technology that will allow for greater remote
-troubleshooting capability.
-1. To improve asset management capabilities for the purposes of security and cost
-controls.
+1. To be proactive in user education and comfort level with emerging technology.
+1. To better serve our customers by means of survey and performance metrics.
 
 ### ACCOMPLISHMENTS
-#### Administrative
-1. Nominated by the Mass Technology Leadership Council as a finalist for Public
-Sector Organization of the year.
+#### Administration
+1. Received the Massachusetts Common Cause eGovernment award with
+Distinction for commitment to an open and transparent government website.
 1. Met with individual departments and various committees on a regular basis to
 review upcoming technology initiatives.
+1. Successfully launched mobile.brookineMA.gov website, which enables mobile
+devices to obtain key Town information in a streamlined fashion.
+1. Deployed enhanced handheld technologies at the Health Department for field
+inspection, violation and compliance certification.
 1. Met with Senior School administration bi-weekly.
 1. Chaired and convened monthly meetings of the Information Management
 Governance Committee and quarterly meetings of the ITAC.
-1. Represented the IT Department at monthly Emergency Management Team meetings.
-1. Worked closely with the Brookline Fire Department in creation of an IT Strategic
-Plan.
-1. Participated on the Procurement Management Team for an HR Information System to
-be used by Town and School departments.
-1. Met with School and Building Department staff to determine appropriate technology
-needs for the Runkle School project.
+1. Participated in monthly Emergency Management Team meetings.
+1. Worked closely with the Fire Department in the migration to a department records
+management application.
+1. Worked to consolidate an IT position between DPW and IT.
+1. Assisted the Runkle School Building Committee to develop a technology plan for
+the Runkle School project.
 
 #### Application Management
-1. Completed the installation and deployment of the new permitting application.
-1. Deployed an electronic application to view and retrieve birth, marriage and death
-certificates.
-1. Continued to keep all application releases current to manufacturer recommend levels.
-1. Upgraded the GIS General Purpose Viewer to include the new Park inventory.
-1. Completed migration of Town email accounts to the new .gov format.
-1. Facilitated the data exchange with the State GIC for enrollment of Town and School
-employees.
-1. Completed the new Police website with fully integrated interfaces to the Town
-Website.
-1. Worked with Police to implement new Parking Enforcement technology.
-1. Collected and presented data from 1,100 School employees as required by the Mass
-DOE.
-1. Extended the Student Management System to support the SPED business process,
-which eliminated an external application.
-1. Worked with the School Department on the integration of employment posting and
-substitute teacher request applications.
-1. Migrated the Assessors database to next generation technology and platform.
-1. Migrated Motor Vehicle Excise tax payment engine to newer technology, greatly
-reducing transaction fees.
-1. Created websites for Campaign Finance and Brookline 2010 committees.
-1. Built a consolidated H1N1 portal that allowed consistent communication between
-Town and School departments, the community and State health officials.
+1. Kept enterprise application releases up-to-date, including Munis (Financial),
+Millennium (Payroll), GeoTMS (permitting and licensing), Cartegraph (maintenance
+management), ESRI (GIS), Aspen X2 (student information), Destiny (school library),
+and Health Office (school nurse).
+1. Rolled out the GeoTMS GeoInspector module on Intermec PDA mobile devices
+for the Health Department Inspectors to conduct restaurant, housing, lodging house,
+and other inspections.
+1. Rolled out the GeoTMS web module for building permit searching online.
+Integrated Velosum digital pen and paper technology with GeoTMS permitting system
+for Town by-law tickets
+1. Developed the Cartegraph Maintenance Management System (CMMS)
+implementation plan.
+1. Based upon the CMMS plan, converted the Water Department Cross Connection
+MS Access database to CMMS and implemented the Trimble Nomad handheld device
+for the inspectors.
+1. Base upon the CMMS plan, implemented TreeView for the Parks and Open Space
+Division for closing tree related work orders and collecting tree asset locations.
+Integrated GIS tree data with CMMS with bi-directional connections.
+1. Rolled out credit card payment devices and applications for the Town Clerk and
+Treasurer’s Office.
+1. Developed a new website for the Schools including a new High School Athletic
+program web site.
+1. Developed the mobile version of the Town’s web site: mobile.brooklinema.gov.
+1. Automated all data extracts from Aspen X2 Student Information system to other
+systems that use student information (Blackboard Connect, Destiny, Health Office,
+and Food Service) for better data sharing and simplified business processes.
+1. Assisted in the submission of EPIMS to the Department of Early and Secondary
+Education.
+1. Updated existing GIS data layers and published the latest Assessor’s Atlas
+2010.
+1. Rolled out GIS base maps in ESRI’s community base mapping program.
+1. Revamped the Assessor’s Property Database lookup program and integrated
+GIS general purpose viewer.
+1. Developed Switchboard program for the Town Clerk’s Office for voter related
+data requests.
+1. Adopted Federal Geodetic Data Committee’s Master Address data standards.
+1. Designed and developed Brookline Master Address Database (BMAD).
 
 #### Network Support
-1. Completed 80% of the migration to Voice Over IP technology for Town and School
-departments.
-1. Increased available internet bandwidth on the Town connection by 2x and on the
-School connection by 3x.
-1. Increased available disk capacity by 3x through consolidated storage upgrade.
-1. Continued server virtualization activity, which resulted in the elimination of
-additional standalone servers.
+1. Completed migration to VOIP technology for Town and School departments.
+1. Upgraded networks at 15 Town and School buildings.
+1. Upgraded storage capacity from 6TB to 12TB for additional growth in virtual
+machines and application development.
+1. Consolidated several network elements into a single multi-purpose network for
+increased management, performance and reliability.
 
 #### Help Desk
 1. Continued to introduce and support users to the Town/School consolidated Help
 Desk.
 1. Enhanced self-service trouble ticket capability to all school users.
+1. Upgraded Apple servers to the latest version.
+1. Responded to over 2,100 help tickets across the enterprise.
+1. Deployed and relocated over 700 desktop computers across the Town and
+School departments.
+1. Implemented power saving software on all desktop computers across the
+enterprise.
