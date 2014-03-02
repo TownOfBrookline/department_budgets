@@ -1,11 +1,11 @@
-# Information Technology FY2010 Program Budget
+# Information Technology FY2015 Program Budget
 
 ## PROGRAM DESCRIPTION
-Information Technology plays a key role in Brookline's ability to educate its children, respond
+Information Technology (IT) plays a key role in Brookline's ability to educate its children, respond
 to emergencies, and efficiently provide services to its citizens. Investments in IT
 applications and infrastructure provide managers with tools to operate more
 efficiently, increase productivity, and manage the financial, physical, and human
-resources of the Town. The Department is lead by the Chief Information Officer
+resources of the Town. The Department is led by the Chief Information Officer
 (CIO), who serves in this capacity for both the Town and the Schools. (This budget
 reflects only the Town resources available to the Department; there are also IT funds
 included in the School Department budget.)
@@ -24,6 +24,7 @@ users' specifications in terms of quality and cost;
 1. Identification of opportunities in the development and support of new and existing
 technologies; and
 1. Training of employees in the use of various aspects of information technology.
+
 The ITD has four divisions: Administration, Application Management, Network
 Support, and the Help Desk. A brief description of each is listed below:
 
@@ -38,38 +39,31 @@ maintaining, and supporting the use of software needed to meet the operational,
 management, and reporting requirements of the Brookline organization.
 
 **Network Support** - is responsible for those functions related to implementing,
-maintaining, and supporting the connectivity between the organization's computers
-and systems software.
+maintaining, and supporting the connectivity between the organization's computers,
+telecomm infrastructure, and systems software.
 
 **Help Desk** - is responsible for those functions related to directly supporting users of
 IT systems and services.
 
 ### BUDGET STATEMENT
-The FY13 budget reflects an increase of $31,248 (2.2%). Personnel increases $10,434
-(1.1%) for Steps. Services decrease $15,700 (3.5%), primarily due to the restructuring of
-the Town’s Help Desk/Network Monitoring Contract. As a result,
-Professional/Technical Services decreases $65,000 and General Consulting increases
-$45,000, providing a $20,000 savings to the Town. There is also a $2,800 increase in
-Data Processing Software Maintenance, a $2,000 increase in Internet Related Services,
-and a $500 decrease in Telecomm.
+The FY15 budget reflects an increase of $81,913 (4.8%). Personnel increases $6,583 (0.7%)
+for Steps ($6,433) and Longevity ($150).
 
-Supplies increase $11,514 (51.5%) for Data Processing Supplies ($14,364), slightly
-offset by decreases in Data Processing Software ($2,500) and Office Supplies ($350).
-The increase in Capital ($25,000, 158.5%) reflects the reallocation of monies for
-operating items previously funded in the Department’s CIP appropriation (the CIP shows
-a corresponding $25,000 reduction).
+The $75,000 (12.2%) increase in Services is for network infrastructure for the School
+Department. This is part of the Superintendent’s $637,500 School IT proposal. This $75,000
+was backed out of the School appropriation. Capital increases $331 (0.8%).
 
-### FY2013 OBJECTIVES
-#### Administration
+### FY2015 OBJECTIVES
+## Administration
 1. To continue to meet with individual departments and various committees on a
 regular basis to review upcoming technology initiatives.
 1. To continue to meet with Senior School administration on a regular basis.
-1. To continue to convene and chair monthly meetings of the Information
+1. To continue to Chair and convene monthly meetings of the Information
 Management Governance Committee and quarterly meetings of the ITAC.
-1. To represent the IT department at monthly Emergency Management
+1. To represent the IT Department at monthly Emergency Management
 Team meetings.
-1. To continue drive business process change that will promote departmental
-efficiencies and improved services to customers.
+1. To continue to drive business process change that will promote departmental
+efficiencies and improve services to customers.
 1. To develop technology solutions that will allow for additional field and mobility
 based workers to leverage data and workflow remotely.
 
@@ -77,34 +71,36 @@ based workers to leverage data and workflow remotely.
 1. To continue to manage the lifecycle management strategy for all enterprise
 applications.
 1. To continue to follow change management best practices.
-1. To complete the implementation of Cartegraph Maintenance Management System
-(CMMS), integration with GIS asset layers, and citizen request portal (BrookONline).
+1. To continue to optimize the workflow of BrookONline to ensure seamless interaction
+between public service requests and staff response.
+1. To implement additional technologies that will enable the public to better interact and
+transact with Town departments.
 1. To further implement GeoTMS online applications for all appropriate permits and
 licenses.
+1. To upgrade and integrate the Cartegraph work order system into the BrookONline
+system.
 1. To further the use, optimization, and integration of the document management
 system.
-1. To continue to integrate other systems with MUNIS financials.
+1. To procure and implement next generation BrooklineMA.gov website.
 1. To continue to develop integrated mobile applications that save time and increase
 efficiency.
-1. To continue the development of synchronization services and procedures between
-the Brookline Master Address Database and other systems.
 1. To further implement credit card payment capabilities.
 
 #### Network Support
 1. To expand the server virtualization footprint.
 1. To incorporate School and Public Safety networks under a single management
 platform to allow for cleaner application integration and security management.
-1. To upgrade and centralize antivirus into a single console to include
+1. To upgrade and centralize Town AntiVirus into a single console to include
 Windows and Apple clients.
-1. To develop a storage plan for the future to include archiving of old to better
+1. To implement a storage plan for the future to include archiving of old to better
 management storage footprint.
-1. To secure an additional backup device for replication and redundancy with the
+1. To acquire an additional backup device for replication and redundancy with
 existing disk backup product.
 1. To plan for the Microsoft Exchange migration to allow for enterprise email,
-application and hand held devices.
+application and handheld devices.
 1. To implement polices to lockdown desktops via central management, antivirus or
-other third party tools.
-1. To deploy a centralized software distribution tool for desktop upgrades, etc.
+other third-party tools.
+1. To utilize a centralized software distribution tool for desktop upgrades, etc.
 
 #### Help Desk
 1. To take a proactive role in user education and comfort level with emerging
@@ -113,47 +109,38 @@ technology.
 
 ### ACCOMPLISHMENTS
 #### Administration
-1. Participated in the following: Town Administrator's Parking Meter Task Force,
-Moderators Committee on Electronic Voting, Redistricting Committee, School
-Committee, Buffer Zone Committee.
+1. Assumed leadership position in enhancing the Town and Public School social media
+presence and effectiveness.
 1. Met with individual departments and various committees on a regular basis to review
 upcoming technology initiatives.
-1. Met with Senior School administration bi-weekly.
-1. Convened and chaired monthly meetings of the Information Management Governance
+1. Assumed leadership position in the conversion and implementation of a new Town/School
+Payroll and Human Resource system.
+1. Chaired and convened monthly meetings of the Information Management Governance
 Committee and quarterly meetings of the ITAC.
 1. Represented the IT Department at monthly Emergency Management Team meetings.
-1. Worked closely with the Brookline Fire Department in migration to a new Records
-Management system.
-1. Worked closely with the DPW regarding consolidation of IT positions within both
-departments.
-1. Assisted with the plan outlining appropriate technology needs for the Runkle School
-and Heath School projects.
+1. Led Town efforts to ensure open data accessibility and transparancy via BrooklineMA.gov.
 
 #### Application Management
-1. Successfully implemented the BrookONline portal, an online suite of applications
-designed around improving the way the public can transact and interact with Town
-government.
-1. Successfully migrated over 4,000 listserv accounts to a new email distribution
-platform.
-1. Developed several smartphone-based applications.
-1. Assisted the Town Clerk's office in the redistricting efforts.
-1. Assisted the School Department in the re-mapping of school buffer zones.
-1. Rolled out credit card payment devices and applications for the Town Clerk’s Office,
-Treasurer’s Office and Transportation Division.
-1. Developed a payment portal to consolidate school-based payments.
+1. Continued to upgrade and keep current all major Town/School Applications.
+1. Enhanced current inventory of online maps to include interactive features.
+1. Rolled out multiple online license options for the Selectmen's Office.
+1. Project managed the implementation of the MUNIS Payroll system.
+1. Continued to enhance online payment options with departments.
+1. Migrated the School Department to a new online payment system, mySchoolbucks.
+1. Worked with the Building Department to digitize historic files for easier online lookup.
+1. Implemented increased functionality in the Town event calendar.
 
 #### Network Support
-1. Continued to monitor and manage 29 locations for maximum uptime.
-1. Migrated the Public Library network architecture to a newer platform.
-1. Worked with the Public Safety departments to re-engineer their network and refresh
-all network equipment.
+1. Continued to monitor and manage 36 locations for maximum uptime.
+1. Implemented Digital Signage across all PSB Schools.
+1. Upgraded all PSB facilities to 10G connectivity.
+1. Completed second phase of the Public School wireless network implementation.
+1. Continued to ensure reliability of over 130 virtual and 40 physical servers.
 
 #### Help Desk
 1. Continued to introduce and support users to the Town/School consolidated Help Desk.
 1. Enhanced self-service trouble ticket capability to all school users.
-1. Upgraded apple servers to latest version.
-1. Responded to over 6200 help tickets across the enterprise.
+1. Upgraded apple servers to the latest version.
+1. Responded to over 2,100 help tickets across the enterprise.
 1. Project managed, deployed and relocated over 700 desktop computers across the
 Town and School departments.
-1. Implemented power saving software on all desktop computers across the
-enterprise.
